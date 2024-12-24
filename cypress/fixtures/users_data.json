@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "username": "test",
+      "name": "Automation",
+      "family": "test",
+      "gess_text": "st",
+      "long_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi."
+    },
+    {
+      "username": "test",
+      "name": "QA",
+      "family": "Engineer",
+      "gess_text": "va",
+      "long_text": "Litora cursus sagittis convallis porta morbi eu hendrerit. Penatibus ex sagittis feugiat vestibulum amet rhoncus laoreet euismod. Lacinia consequat purus tellus diam ut sagittis blandit lacinia."
+    }
+  ]
+}
